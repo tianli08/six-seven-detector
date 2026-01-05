@@ -1,0 +1,1 @@
+### This is a detector for a viral meme.
